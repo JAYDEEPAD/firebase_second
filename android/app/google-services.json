@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259054423745",
+    "project_id": "fir-secondscreen",
+    "storage_bucket": "fir-secondscreen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259054423745:android:5f2fb4272abd512b3d0e40",
+        "android_client_info": {
+          "package_name": "com.example.firebase_second"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmdoQGZvGnWBAgKCA4kxrIKDZxpYS_3jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
